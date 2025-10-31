@@ -1,0 +1,30 @@
+# 🧠 Sentiment Analyzer
+
+A simple and powerful **Sentiment Analysis Tool** built with Python and TextBlob.  
+It can analyze emotions from text or entire files and classify them as 😊 Positive, 😐 Neutral, or 😞 Negative.
+
+---
+
+## 🚀 Features
+- Analyze any sentence or paragraph.
+- Upload and analyze text files.
+- Web interface built with **Flask**.
+- CLI (Command Line) support.
+- Emoji-based sentiment results.
+
+---
+
+## 🛠️ Technologies Used
+- Python 🐍
+- Flask 🌐
+- TextBlob 💬
+- HTML / CSS 🎨
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JAYA-MALINI/sentiment-analyzer.git
+   cd sentiment-analyzer
